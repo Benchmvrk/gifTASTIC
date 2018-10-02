@@ -1,0 +1,35 @@
+body {
+	background-image: url("../images/movie.jpg");
+    font-family: 'Bad Script', cursive;
+    background-size: cover;
+}
+
+.jumbotron {
+    text-align: center;
+    background: transparent;
+}
+
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: skyblue;
+}
+
+.btn-default {
+    color: teal;
+    font-size: medium;
+}
+
+.holder {
+    float: left;
+}
+
+
+
